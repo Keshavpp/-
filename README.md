@@ -1,2 +1,2 @@
 # -अनुवादक
-A word translator. 
+A translation tool developed using python & GUI using tkinter. 
